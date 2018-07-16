@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nexus-accounts-management" />
+        <module name="nexus-BuyAnyWhere" />
+        <module name="nexus-register-center" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nexus" target="1.8" />
+      <module name="nexus-accounts-management" target="1.8" />
+      <module name="nexus-BuyAnyWhere" target="1.8" />
+      <module name="nexus-register-center" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

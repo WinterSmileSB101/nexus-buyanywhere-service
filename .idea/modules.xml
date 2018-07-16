@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nexus.iml" filepath="$PROJECT_DIR$/nexus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nexus-BuyAnyWhere.iml" filepath="$PROJECT_DIR$/nexus-BuyAnyWhere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nexus-accounts-management/nexus-accounts-management.iml" filepath="$PROJECT_DIR$/nexus-accounts-management/nexus-accounts-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nexus-register-center/nexus-register-center.iml" filepath="$PROJECT_DIR$/nexus-register-center/nexus-register-center.iml" />
+    </modules>
+  </component>
+</project>
