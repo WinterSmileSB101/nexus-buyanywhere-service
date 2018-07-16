@@ -1,0 +1,20 @@
+server:
+  port: 10001
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10000/eureka/
+    register-with-eureka: false
+    fetch-registry: false
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/WinterSmileSB101/nexus-buyanywhere-service/tree/master/service-configs/
+          searchPaths: common*
+          username: zxb13194889618@outlook.com
+          password: z9627191063
+
+application:
+  name: config-center

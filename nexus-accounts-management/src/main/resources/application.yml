@@ -3,7 +3,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:10000/eureka/
 server:
-  port: 10001
+  port: 11001
 spring:
   application:
     name: accounts-management-service
