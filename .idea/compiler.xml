@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="nexus-accounts-management" />
         <module name="nexus-BuyAnyWhere" />
+        <module name="nexus-config-center" />
         <module name="nexus-register-center" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="nexus" target="1.8" />
       <module name="nexus-accounts-management" target="1.8" />
       <module name="nexus-BuyAnyWhere" target="1.8" />
+      <module name="nexus-config-center" target="1.8" />
       <module name="nexus-register-center" target="1.8" />
     </bytecodeTargetLevel>
   </component>
