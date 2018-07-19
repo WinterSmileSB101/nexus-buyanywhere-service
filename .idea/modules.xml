@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/nexus-accounts-management/accounts-management.iml" filepath="$PROJECT_DIR$/nexus-accounts-management/accounts-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nexus-config-center/config-center.iml" filepath="$PROJECT_DIR$/nexus-config-center/config-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/nexus.iml" filepath="$PROJECT_DIR$/nexus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nexus-accounts-management/nexus-accounts-management.iml" filepath="$PROJECT_DIR$/nexus-accounts-management/nexus-accounts-management.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nexus-config-center/nexus-config-center.iml" filepath="$PROJECT_DIR$/nexus-config-center/nexus-config-center.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nexus-register-center/nexus-register-center.iml" filepath="$PROJECT_DIR$/nexus-register-center/nexus-register-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nexus-register-center/register.iml" filepath="$PROJECT_DIR$/nexus-register-center/register.iml" />
     </modules>
   </component>
 </project>

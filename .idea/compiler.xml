@@ -6,18 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="nexus-accounts-management" />
-        <module name="nexus-BuyAnyWhere" />
-        <module name="nexus-config-center" />
-        <module name="nexus-register-center" />
+        <module name="accounts-management" />
+        <module name="config-center" />
+        <module name="register" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="accounts-management" target="1.8" />
+      <module name="config-center" target="1.8" />
       <module name="nexus" target="1.8" />
-      <module name="nexus-accounts-management" target="1.8" />
-      <module name="nexus-BuyAnyWhere" target="1.8" />
-      <module name="nexus-config-center" target="1.8" />
-      <module name="nexus-register-center" target="1.8" />
+      <module name="register" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

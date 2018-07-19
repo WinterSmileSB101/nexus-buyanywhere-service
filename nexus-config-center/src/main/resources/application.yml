@@ -1,11 +1,11 @@
 server:
-  port: 10001
+  port: 12001
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:10000/eureka/
-    register-with-eureka: false
-    fetch-registry: false
+      defaultZone: http://localhost:12000/eureka/
+#    register-with-eureka: false
+#    fetch-registry: false
 spring:
   cloud:
     config:
@@ -15,6 +15,5 @@ spring:
           searchPaths: service-configs/configs-*
           username: zxb13194889618@outlook.com
           password: z9627191063
-
-application:
-  name: config-center
+  application:
+    name: config-center
