@@ -1,2 +1,2 @@
-host: localhost
+eureka.instance.hostname: localhost
 port: 11000
