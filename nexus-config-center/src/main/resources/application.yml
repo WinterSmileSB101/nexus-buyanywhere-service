@@ -13,7 +13,7 @@ spring:
         git:
           uri: https://github.com/WinterSmileSB101/nexus-buyanywhere-service.git
           searchPaths: service-configs/configs-*
-          username: zxb13194889618@outlook.com
-          password: z9627191063
+          username: 
+          password: 
   application:
     name: config-center
